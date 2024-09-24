@@ -11,6 +11,6 @@ ALIVE_MSG : process.env.ALIVE_MSG || "*🤖𝐇𝐞𝐲 𝐈'𝐦 💃𝐐𝐔�
 AUTO_VOICE : process.env.AUTO_VOICE || "true",
 READ_CMD: process.env.READ_CMD || "false",
 MODE : process.env.MODE || "public",
-AUTO_BIO : process.env.AUTO_BIO || "true",    
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+AUTO_BIO : process.env.AUTO_BIO || "false",    
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 };
